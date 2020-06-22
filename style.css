@@ -108,7 +108,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6)
+    color: rgba(0, 0, 0, 1)
 }
 
 .d-bloc .a-btn:hover,
@@ -397,8 +397,8 @@ h5,
 h6,
 p {
     font-family: helvetica;
-    font-weight: 400;
-    color: #575757!important
+    font-weight: 500;
+    color: #000!important
 }
 
 .container {
@@ -410,7 +410,7 @@ p {
 }
 
 p {
-    font-size: 13px
+    font-size: 20px
 }
 
 .tight-width-whitespace {
@@ -504,7 +504,7 @@ h4 {
 }
 
 .tc-white {
-    color: #f3976c!important
+    color: #f8b89b!important
 }
 
 .btn-atomic-tangerine {

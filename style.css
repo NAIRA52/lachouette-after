@@ -469,7 +469,7 @@ h4 {
 }
 
 .white {
-    color: #fff!important
+    color: #000000!important
 }
 
 .portfolio-thumb {
@@ -539,7 +539,7 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url(img/lines-h2-bg.png)
+    background-image: url(img/lines-h2-bg.jpg)
 }
 
 .bg-banniere {
@@ -547,7 +547,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url(img/image-de-presentation.bmp)
+    background-image: url(img/image-de-presentation.jpg)
 }
 
 @media (max-width:1024px) {

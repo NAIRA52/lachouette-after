@@ -409,7 +409,8 @@ p {
 }
 
 p {
-    font-size: 15px
+    font-size: 15px;
+    font-weight: 700
 }
 
 .tight-width-whitespace {
@@ -518,7 +519,8 @@ h4 {
 }
 
 .ltc-white {
-    color: #fff!important
+    color: #fff!important;
+    padding-left: 20rem;
 }
 
 .ltc-white:hover {

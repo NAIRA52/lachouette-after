@@ -703,6 +703,9 @@ h4 {
     .lachouette {
         width: 100%;
     }
+    .row-no-gutters {
+        flex-direction: column;
+    }
 }
 
 

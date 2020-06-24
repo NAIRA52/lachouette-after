@@ -705,6 +705,10 @@ h4 {
     .ltc-white {
         padding-left: 5rem;
     }
+    .page-container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
 
 
@@ -722,11 +726,6 @@ h4 {
 
 .black-background {
     padding: 0;
-}
-
-.page-container {
-    padding-left: 10px;
-    padding-right: 10px;
 }
 
 label {
